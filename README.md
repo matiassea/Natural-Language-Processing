@@ -97,4 +97,4 @@ These lemmatization functions are very different and depending on the case, one 
 
 There are many, many different methods to gather and organize words from a text before modeling them, and these were just a small portion of the available options. All this cleaning is necessary before feeding the text into a machine learning model to simplify it as much as possible. When you analyze a large amount of words in predictive models, after the above steps are done, you will most likely rely on sklearn methods such as CountVectorizer, TfidfVectorizer or HashingVectorizer to convert the raw text into a matrix of token counts to train your predictive model.
 
-[Source] (https://www.kdnuggets.com/2018/10/machines-understand-language-introduction-natural-language-processing.html/).
+[Source](https://www.kdnuggets.com/2018/10/machines-understand-language-introduction-natural-language-processing.html/).
